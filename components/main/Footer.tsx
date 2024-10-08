@@ -63,7 +63,7 @@ const Footer = () => {
                     </div>
             </div>
                 <div className='mb-[20px] text-[15px] text-center mt-5'>
-                    &copy; WebChain Dev 2024 Inc. All rights reserved
+                    &copy; WebChain-Dev 2024 Inc. All rights reserved
                 </div>
         
         </div>
