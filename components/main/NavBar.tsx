@@ -18,7 +18,7 @@ const NavBar = () => {
                 
 
                 <span className='font-bold ml-[10px] hidden md:block text-gray-300'>
-                    WebChain Dev
+                    Hassan Dev
                 </span>
                 </a>
                 <div className='w-[500px] h-full flex flex-row items-center justify-between md:mr-20'>
